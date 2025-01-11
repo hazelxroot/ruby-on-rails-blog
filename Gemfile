@@ -79,3 +79,5 @@ gem "aws-sdk-s3", require: false
 
 gem 'mutex_m'
 gem 'bigdecimal'
+
+gem "pagy", "~> 9.3"
